@@ -88,7 +88,7 @@ Siga o passo a passo para instalar o projeto:
 1. Abra o terminal e clone o repositório do projeto:
 
 ```bash
-git clone https://github.com/pedroeuzebiojs/my-notes
+git clone https://github.com/pedroeuzebiojs/my-notes-web-app
 ```
 
 ## 🚀 Como executar o projeto
@@ -98,7 +98,7 @@ Siga o passo a passo para executar o projeto:
 1. Entre na pasta do projeto clonado:
 
 ```bash
-cd my-notes
+cd my-notes-web-app
 ```
 
 2. Abra a pasta do projeto clonado no editor de código de sua preferência. Caso seja o VS Code digite o comando:
@@ -123,7 +123,7 @@ npm run dev
 
 ## 🌐 Demonstração da aplicação
 
-- [Exibir projeto](https://my-notes-web-app)
+- [Exibir projeto](https://my-notes-web-app.vercel.app)
 
 ## 👨‍💻 Autor
 
